@@ -1,7 +1,3 @@
-
-
-
-
 used = {} 
 def DFS(a, start):
     used[start] = True

@@ -1,9 +1,5 @@
 import bfs
 
-
-
-
-
 if __name__ == '__main__':
     print("Введите количество вершин")
     g = [[] for i in range(int(input()))]

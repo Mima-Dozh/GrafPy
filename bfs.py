@@ -1,10 +1,5 @@
 from collections import deque
 
-
-
-
-
-
 def BFS(arr, start):
     q = deque()
     q.append(arr[start])
